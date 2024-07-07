@@ -1,1 +1,1 @@
-# nn_tools_for_variational_qft
+# Neural Network Applications for Studying Quantum Field Theory with a Variational Approach.
